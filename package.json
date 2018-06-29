@@ -1,19 +1,19 @@
 {
-    "name": "axios-http-request",
-    "version": "0.0.1",
-    "description": "Using axios.create to cancel duplicate request",
-    "main": "index.js",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/lucyhao/axios-http-request.git"
-    },
-    "dependencies": {
-      "axios": "^0.18.0"
-    },
-    "author": "lucyhao",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/lucyhao/axios-http-request/issues"
-    },
-    "homepage": "https://github.com/lucyhao/axios-http-request#readme"
-  }
+  "name": "axios-http-request",
+  "version": "0.0.2",
+  "description": "Using axios.create to cancel duplicate request",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucyhao/axios-http-request.git"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "author": "lucyhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucyhao/axios-http-request/issues"
+  },
+  "homepage": "https://github.com/lucyhao/axios-http-request#readme"
+}
