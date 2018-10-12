@@ -50,6 +50,7 @@ function request(options) {
       return response;
       
     }, function(error){
+    	cancelObj[response.config.baseURL] = null;
       if (error.response) {
         return Promise.reject(error);
       } else if (error.request) {
