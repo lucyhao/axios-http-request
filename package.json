@@ -1,6 +1,6 @@
 {
   "name": "axios-http-request",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Using axios.create to cancel duplicate request",
   "main": "index.js",
   "repository": {
