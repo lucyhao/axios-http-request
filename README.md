@@ -2,7 +2,7 @@
 
 Using axios.create() to cancel request when set params `cancelMultiple: true` (see the example below).
 
-When set `cancelMultiple`, it will cancel the duplicate request unless the request is responsed. Especially for the sumbit feature(we do want the user request more than once when they click the submit button and such features).
+When set `cancelMultiple`, it will cancel the duplicate request unless the request is responsed. Especially for the sumbit feature(we don't want the user request more than once when they click the submit button and such features).
 
 #### How to use:
 
